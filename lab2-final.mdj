@@ -2478,7 +2478,7 @@
 							},
 							"fillColor": "#00a5ff",
 							"font": "Arial;16;0",
-							"left": 328,
+							"left": 376,
 							"top": 688,
 							"width": 89,
 							"height": 38,
@@ -16965,6 +16965,7 @@
 						"$ref": "AAAAAAF4Xg7yHkpIL5k="
 					},
 					"name": "ClassDiagram1",
+					"defaultDiagram": true,
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
